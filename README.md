@@ -1,0 +1,31 @@
+# Juego del Ahorcado (hangman_1_0)
+
+## Lista de tareas
+
+- [ ] Crear repositorio público y README (nombre, correo, ejecución, encabezados, Alert Types)
+- [ ] Crear la carpeta `hangman_1_0` con los 3 archivos (principal, palabras, monigote)
+- [ ] Archivo de palabras e importación en el archivo principal
+- [ ] Selección aleatoria de la palabra y ocultarla con `_`
+- [ ] Pedir una letra por consola
+- [ ] Validar que sea una sola letra en A-Z
+- [ ] Validar que la letra no se haya usado antes
+- [ ] Revelar la letra en todas sus posiciones dentro de la palabra
+- [ ] 6 vidas con contador
+- [ ] Archivo con las 7 etapas del monigote e importación en el archivo principal
+- [ ] Restar una vida y mostrar el dibujo correspondiente en cada error
+- [ ] Derrota: contador en 0, último dibujo, mensaje y palabra revelada
+- [ ] Victoria: mensaje de ganaste
+- [ ] Menú para finalizar o jugar de nuevo
+
+> [!NOTE]
+> Las tareas se marcan con `- [x]` a medida que se resuelven.
+
+## Autor
+
+- **Nombre:** Juan David Soto
+- **Correo:** juandatnto@gmail.com
+
+## Cómo ejecutar
+
+> [!IMPORTANT]
+> Pendiente: se documentará al terminar el programa.
