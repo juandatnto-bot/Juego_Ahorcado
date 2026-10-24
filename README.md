@@ -15,7 +15,7 @@
 - [x] Restar una vida y mostrar el dibujo correspondiente en cada error
 - [x] Derrota: contador en 0, último dibujo, mensaje y palabra revelada
 - [x] Victoria: mensaje de ganaste
-- [xn] Menú para finalizar o jugar de nuevo
+- [x] Menú para finalizar o jugar de nuevo
 
 > [!NOTE]
 > Las tareas se marcan con `- [x]` a medida que se resuelven.
