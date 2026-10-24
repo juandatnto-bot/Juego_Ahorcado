@@ -1,9 +1,9 @@
-# Juego del Ahorcado (hangman_1_0)
+﻿# Juego del Ahorcado (hangman_1_0)
 
 ## Lista de tareas
 
 - [ ] Crear repositorio público y README (nombre, correo, ejecución, encabezados, Alert Types)
-- [ ] Crear la carpeta `hangman_1_0` con los 3 archivos (principal, palabras, monigote)
+- [x] Crear la carpeta `hangman_1_0` con los 3 archivos (principal, palabras, monigote)
 - [ ] Archivo de palabras e importación en el archivo principal
 - [ ] Selección aleatoria de la palabra y ocultarla con `_`
 - [ ] Pedir una letra por consola
