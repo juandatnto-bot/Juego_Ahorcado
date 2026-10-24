@@ -17,11 +17,6 @@ usadas = []
 
 vidas = 6
 
-print(palabra_secreta)
-
-for dibujo in etapas:
-    print(dibujo)
-
 while True:
     letra = input("Ingresa una letra: ")
     letra = letra.upper()
@@ -42,5 +37,7 @@ while True:
             oculta[i] = letra
     print(" ".join(oculta))
     print("Vidas:", vidas)
+    print(etapas[6 - vidas])
     if vidas == 0:
+        print("Has perdido. La palabra era:", palabra_secreta)
         break
