@@ -9,7 +9,7 @@
 - [x] Pedir una letra por consola
 - [x] Validar que sea una sola letra en A-Z
 - [x] Validar que la letra no se haya usado antes
-- [ ] Revelar la letra en todas sus posiciones dentro de la palabra
+- [x] Revelar la letra en todas sus posiciones dentro de la palabra
 - [ ] 6 vidas con contador
 - [ ] Archivo con las 7 etapas del monigote e importación en el archivo principal
 - [ ] Restar una vida y mostrar el dibujo correspondiente en cada error

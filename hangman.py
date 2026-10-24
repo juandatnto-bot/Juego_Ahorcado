@@ -12,7 +12,9 @@ for letra in palabra_secreta:
 
 alfabeto = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
-usadas = []
+usadas = [] 
+
+vidas = 6
 
 print(palabra_secreta)
 
@@ -26,7 +28,15 @@ while True:
         print("Ya ha utilizado la letra")
         continue
     usadas.append(letra)
+    if letra in palabra_secreta:
+        print("Está")
+    else:
+        print("No está")
+        vidas -= 1
     for i in range(len(palabra_secreta)):
         if palabra_secreta[i] == letra:
             oculta[i] = letra
     print(" ".join(oculta))
+    print("Vidas:", vidas)
+    if vidas == 0:
+        break
