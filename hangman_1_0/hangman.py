@@ -10,4 +10,16 @@ oculta = []
 for letra in palabra_secreta:
     oculta.append("_")
 
+    alfabeto = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+while True:
+    letra = input("Ingresa una letra: ")
+    letra = letra.upper()
+    if len(letra) == 1 and letra in alfabeto:
+        break
+    print("Debe ingresar solo 1 letra")
+
+
+print("Letra aceptada:", letra)
+
 print(" ".join(oculta))

@@ -6,8 +6,8 @@
 - [x] Crear la carpeta `hangman_1_0` con los 3 archivos (principal, palabras, monigote)
 - [x] Archivo de palabras e importación en el archivo principal
 - [x] Selección aleatoria de la palabra y ocultarla con `_`
-- [ ] Pedir una letra por consola
-- [ ] Validar que sea una sola letra en A-Z
+- [x] Pedir una letra por consola
+- [x] Validar que sea una sola letra en A-Z
 - [ ] Validar que la letra no se haya usado antes
 - [ ] Revelar la letra en todas sus posiciones dentro de la palabra
 - [ ] 6 vidas con contador
