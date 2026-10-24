@@ -14,6 +14,8 @@ alfabeto = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 usadas = []
 
+print(palabra_secreta)
+
 while True:
     letra = input("Ingresa una letra: ")
     letra = letra.upper()
@@ -24,4 +26,7 @@ while True:
         print("Ya ha utilizado la letra")
         continue
     usadas.append(letra)
-    print("Letra aceptada:", letra)
+    for i in range(len(palabra_secreta)):
+        if palabra_secreta[i] == letra:
+            oculta[i] = letra
+    print(" ".join(oculta))
