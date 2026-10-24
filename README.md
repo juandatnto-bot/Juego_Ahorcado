@@ -27,5 +27,17 @@
 
 ## Cómo ejecutar
 
-> [!IMPORTANT]
-> Pendiente: se documentará al terminar el programa.
+1. Instala Python 3 desde https://www.python.org/downloads/
+2. Descarga o clona este repositorio.
+3. Abre una terminal en la carpeta del proyecto.
+4. Ejecuta el programa:
+
+​```bash
+python hangman.py
+​```
+
+> [!TIP]
+> En Windows, si `python` no funciona, usa `py hangman.py`.
+
+> [!WARNING]
+> Los archivos `palabras.py` y `monigote.py` deben estar en la misma carpeta que `hangman.py`, porque el programa los importa.
