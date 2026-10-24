@@ -4,7 +4,7 @@
 
 - [ ] Crear repositorio público y README (nombre, correo, ejecución, encabezados, Alert Types)
 - [x] Crear la carpeta `hangman_1_0` con los 3 archivos (principal, palabras, monigote)
-- [ ] Archivo de palabras e importación en el archivo principal
+- [x] Archivo de palabras e importación en el archivo principal
 - [ ] Selección aleatoria de la palabra y ocultarla con `_`
 - [ ] Pedir una letra por consola
 - [ ] Validar que sea una sola letra en A-Z
