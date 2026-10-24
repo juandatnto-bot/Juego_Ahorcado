@@ -2,6 +2,7 @@
 
 import random 
 from palabras import lista_palabras
+from monigote import etapas
 
 
 palabra_secreta = random.choice(lista_palabras)
@@ -17,6 +18,9 @@ usadas = []
 vidas = 6
 
 print(palabra_secreta)
+
+for dibujo in etapas:
+    print(dibujo)
 
 while True:
     letra = input("Ingresa una letra: ")
