@@ -1,1 +1,1 @@
-﻿"""Archivo principal del juego del ahorcado."""
+"""Archivo principal del juego del ahorcado."""

@@ -1,4 +1,4 @@
-﻿# Juego del Ahorcado (hangman_1_0)
+# Juego del Ahorcado (hangman_1_0)
 
 ## Lista de tareas
 

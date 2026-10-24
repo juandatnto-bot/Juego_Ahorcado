@@ -1,1 +1,1 @@
-﻿"""Representacion del monigote del ahorcado."""
+"""Representacion del monigote del ahorcado."""

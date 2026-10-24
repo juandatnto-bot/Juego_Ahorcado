@@ -1,1 +1,1 @@
-﻿"""Lista de palabras del juego."""
+"""Lista de palabras del juego."""
