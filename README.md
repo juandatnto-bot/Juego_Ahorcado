@@ -12,10 +12,10 @@
 - [x] Revelar la letra en todas sus posiciones dentro de la palabra
 - [x] 6 vidas con contador
 - [x] Archivo con las 7 etapas del monigote e importación en el archivo principal
-- [ ] Restar una vida y mostrar el dibujo correspondiente en cada error
-- [ ] Derrota: contador en 0, último dibujo, mensaje y palabra revelada
-- [ ] Victoria: mensaje de ganaste
-- [ ] Menú para finalizar o jugar de nuevo
+- [x] Restar una vida y mostrar el dibujo correspondiente en cada error
+- [x] Derrota: contador en 0, último dibujo, mensaje y palabra revelada
+- [x] Victoria: mensaje de ganaste
+- [xn] Menú para finalizar o jugar de nuevo
 
 > [!NOTE]
 > Las tareas se marcan con `- [x]` a medida que se resuelven.
